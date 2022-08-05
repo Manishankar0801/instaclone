@@ -1,1 +1,1 @@
-# This is instaclone using ReactJS and Spring Boot
+Insta Clone Using React Js and Java Spring Boot
